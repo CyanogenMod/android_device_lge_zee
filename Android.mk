@@ -1,4 +1,4 @@
-ifneq ($(filter d950,$(TARGET_DEVICE)),)
+ifneq ($(filter zee,$(TARGET_DEVICE)),)
 
 LOCAL_PATH := $(call my-dir)
 
